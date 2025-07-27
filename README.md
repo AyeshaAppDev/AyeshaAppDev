@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I’m Ayesha Ahmed</h1>
-<h3 align="center">Flutter Developer | Mobile UI Enthusiast | Code-Creator</h3>
+<h3 align="center">Flutter App Developer | Mobile UI Enthusiast | Code-Creator</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="flutter dev animation" width="400"/>
