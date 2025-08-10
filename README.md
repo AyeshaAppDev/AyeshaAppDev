@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFE22P7FR0p2Q/profile-displaybackgroundimage-shrink_350_1400/B4DZhCvRGhH4AY-/0/1753466346666?e=1756339200&v=beta&t=EBXXBtBHM0966ZKDdurFyWwPVz9ZgnpXlT9hmr4IKpw" alt="Ayesha Ahmed GitHub Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGon5Y9j6oe2Q/profile-displaybackgroundimage-shrink_350_1400/B4DZhqIZZwHwAY-/0/1754127254846?e=1757548800&v=beta&t=wDNp8_EFn_0EdSX4cg-YmL2vlfJw_QWHRbkDrSTDYQA" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Ayesha Ahmed</h1>
