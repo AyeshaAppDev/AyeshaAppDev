@@ -27,7 +27,7 @@
 - Clean UI & responsive layouts
 
 📫 Let's connect:  
-**Email** → ayesha.appdev@gmail.com
+**Email** → ayesha.appdev@gmail.com | 92 322 8319215
 
 🎨 Fun Fact: I believe **great apps start with great UI/UX — and Flutter makes that possible.**
 
