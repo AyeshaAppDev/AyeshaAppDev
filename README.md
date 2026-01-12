@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGon5Y9j6oe2Q/profile-displaybackgroundimage-shrink_200_800/B4DZhqIZZwHwAU-/0/1754127254846?e=1764201600&v=beta&t=CFb_L2UbuBwZqnMFmO8hzLxGhEM7oNKFQNYCRR-fv0o" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGtUWpEKCtv0g/profile-displaybackgroundimage-shrink_350_1400/B4DZtp25VOIAAY-/0/1767007559509?e=1769644800&v=beta&t=UWnS4eRQxZO1qO9z7SMzEYIMOIomABX6nxASV2qXQGI" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Ayesha Ahmed</h1>
