@@ -14,7 +14,7 @@ I’m a Software Engineer and Flutter App Developer with 2+ years of experience 
 
 I focus on creating clean, scalable, user-focused solutions using Flutter, Dart, Firebase, REST APIs, and modern backend technologies.
 
-## 🚀 What I Build
+##  What I Build
 
 * Cross-platform Flutter applications
 * Scalable mobile app architectures
