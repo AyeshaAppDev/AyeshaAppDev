@@ -60,9 +60,9 @@ Email → [ayesha.appdev@gmail.com](mailto:ayesha.appdev@gmail.com)
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayeshamustafvi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://ayesha-portfolio-beta.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayesha.appdev)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AyeshaAppDev)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayesha.appdev)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=pinterest&logoColor=white)](https://www.pinterest.com/ayeshaappdev/)
 [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/ayeshappdev)
 [![Substack](https://img.shields.io/badge/Substack-FF6719.svg?logo=substack&logoColor=white)](https://substack.com/@ayeshaappdev)
