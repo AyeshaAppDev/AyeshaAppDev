@@ -53,7 +53,8 @@ I focus on creating clean, scalable, user-focused solutions using Flutter, Dart,
 
 ## 📫 Let’s Connect
 
-Email → [ayesha.appdev@gmail.com](mailto:ayesha.appdev@gmail.com)
+Email → [ayesha.appdev@gmail.com](mailto:ayesha.appdev@gmail.com)  
+Phone → +92 322 8319215
 
 ---
 
